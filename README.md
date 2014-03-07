@@ -1,4 +1,6 @@
-Welcome to _Bitcoin Wallet_, a standalone Bitcoin payment app for your Android device!
+Welcome to _Skeincoin Wallet_, a standalone Skeincoin payment app for your Android device!
+
+Forked from Andreas Schilbach's Bitcoin Wallet.
 
 This project contains several sub-projects:
 
@@ -7,10 +9,10 @@ This project contains several sub-projects:
  * __market__:
      App description and promo material for the Google Play app store.
  * __integration-android__:
-     A tiny library for integrating Bitcoin payments into your own Android app
+     A tiny library for integrating Skeincoin payments into your own Android app
      (e.g. donations, in-app purchases).
  * __sample-integration-android__:
-     A minimal example app to demonstrate integration of Bitcoin payments into
+     A minimal example app to demonstrate integration of Skeincoin payments into
      your Android app.
 
 You can build all sub-projects at once using Maven:
