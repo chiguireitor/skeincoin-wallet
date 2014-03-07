@@ -1,6 +1,6 @@
 Welcome to _Skeincoin Wallet_, a standalone Skeincoin payment app for your Android device!
 
-Forked from Andreas Schilbach's Bitcoin Wallet.
+Forked from Andreas Schildbach's Bitcoin Wallet.
 
 This project contains several sub-projects:
 
